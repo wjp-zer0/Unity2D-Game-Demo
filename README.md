@@ -1,3 +1,7 @@
 # Unity2D-Game-Demo
- 恐怖向 2D 像素风 Rogue Like Demo  
-由于压缩文件超过25M，详见Releases
+恐怖向 2D 像素风 Rogue Like Demo  
+由于压缩文件超过25M，详见Releases  
+还没做教程，简单介绍下玩法  
+WASD控制玩家移动，Space和地图场景交互（可修改按键），滚轮切换道具  
+手电筒右键关闭/开启，手枪左键射击  
+玩家控制人物在漆黑的地牢中，避开或杀死僵尸，前往出口进入下一关
